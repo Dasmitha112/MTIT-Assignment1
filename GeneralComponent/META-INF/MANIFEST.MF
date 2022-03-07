@@ -7,5 +7,5 @@ Bundle-Activator: generalcomponent.Activator
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Automatic-Module-Name: GeneralComponent
 Import-Package: org.osgi.framework;version="1.3.0",
- servicevehiclepasspublisher
+ servicevehiclepasspublisher 
 Bundle-ActivationPolicy: lazy
